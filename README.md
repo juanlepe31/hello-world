@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+CIS 3830
+Fall 2018
